@@ -1,4 +1,5 @@
 # quick-chat
+technologies used are vue js, css and firebase
 
 ## Project setup
 ```
